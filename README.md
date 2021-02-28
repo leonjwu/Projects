@@ -32,6 +32,26 @@ Poster
 
 
 
+
+---
+# [Volatility Surface Simulator](https://leonjwu.github.io/volatility-simulator/)
+
+## Overview
+- Created a webapp for options trading and pricing, enabling market makers and traders to visualise real-time and historical simulations of volatility surfaces, market quotes, and trades
+- Using the tool, you can view proprietary implied volatility surface marks generated from my own model, and explore live or historical volatility surfaces in 2D or 3D through simulation
+- Also built a volatility surface simulator - an internal backtesting tool to backtest and benchmark my own improvements to the production volatilty model
+
+ 
+2D Volatility Surface  |  3D Volatility Surface
+:-------------------------:|:-------------------------:
+![](https://github.com/leonjwu/volatility-simulator/blob/master/2D.png)  |  ![](https://github.com/leonjwu/volatility-simulator/blob/master/3D.png)
+---
+
+
+
+
+
+
 # [Exploring unsupervised graph-based learning methods, clustering methods and neural networks for clothing image classification and academic paper clustering in Python](https://github.com/leonjwu/Data-Science/blob/master/Graph-Cluster-NN/)
 
 ## Overview
@@ -49,21 +69,6 @@ Community Detection using CNM  |  Clustering visualised with PCA
 ![](https://github.com/leonjwu/Data-Science/blob/master/Graph-Cluster-NN/Project%203_files/Project%203_73_0.png)  |  ![](https://github.com/leonjwu/Data-Science/blob/master/Graph-Cluster-NN/Project%203_files/Project%203_121_0.png)
 ---
 
-
-
----
-# [Volatility Surface Simulator](https://leonjwu.github.io/volatility-simulator/)
-
-## Overview
-- Created a webapp for options trading and pricing, enabling market makers and traders to visualise real-time and historical simulations of volatility surfaces, market quotes, and trades
-- Using the tool, you can view proprietary implied volatility surface marks generated from my own model, and explore live or historical volatility surfaces in 2D or 3D through simulation
-- Also built a volatility surface simulator - an internal backtesting tool to backtest and benchmark my own improvements to the production volatilty model
-
- 
-2D Volatility Surface  |  3D Volatility Surface
-:-------------------------:|:-------------------------:
-![](https://github.com/leonjwu/volatility-simulator/blob/master/2D.png)  |  ![](https://github.com/leonjwu/volatility-simulator/blob/master/3D.png)
----
 
 
 
