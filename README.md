@@ -1,20 +1,5 @@
 # Projects
 
-# [Computational PDEs: 1D and 2D Wave Equations](https://leonjwu.github.io/comp-pdes/)
-
-## Overview
-- Implemented finite difference schemes for 1D and 2D Wave Equations
-- Designed boundary conditions to allow for reflecting and non-reflecting boundaries (Neumann and Dirichlet)
-- Created visualisations of 1D and 2D waves using Matplotlib Animations
-
-
-2D Wave - Single  |  2D Wave - Multi
-:-------------------------:|:-------------------------:
-![](https://github.com/leonjwu/comp-pdes/blob/master/2D_Wave_Symetric_Single.gif)  |  ![](https://github.com/leonjwu/comp-pdes/blob/master/2D_Wave_Symmetric_Multi.gif)
----
-
-
-
 
 
 ---
@@ -48,6 +33,23 @@ Counterfactual Lockdown Scenarios
 Poster
 :-----------------------------------:
 ![](https://github.com/leonjwu/AIHack/blob/master/poster.jpg)
+---
+
+
+
+
+
+# [Computational PDEs: 1D and 2D Wave Equations](https://leonjwu.github.io/comp-pdes/)
+
+## Overview
+- Implemented finite difference schemes for 1D and 2D Wave Equations
+- Designed boundary conditions to allow for reflecting and non-reflecting boundaries (Neumann and Dirichlet)
+- Created visualisations of 1D and 2D waves using Matplotlib Animations
+
+
+2D Wave - Single  |  2D Wave - Multi
+:-------------------------:|:-------------------------:
+![](https://github.com/leonjwu/comp-pdes/blob/master/2D_Wave_Symetric_Single.gif)  |  ![](https://github.com/leonjwu/comp-pdes/blob/master/2D_Wave_Symmetric_Multi.gif)
 ---
 
 
