@@ -25,7 +25,7 @@
 - Estimated counterfactual lockdown scenarios in Sweden using state-of-the-art Neural Controlled Differential Equations
 
  
-
+Counterfactual Lockdown Scenarios
 :-----------------------------------:
 ![](https://github.com/leonjwu/erd21-team20/blob/main/images/final.png)
 ![](https://github.com/leonjwu/erd21-team20/blob/main/images/counterfactualcde.png)
