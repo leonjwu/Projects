@@ -3,25 +3,6 @@
 
 
 ---
-# [Citadel European Regional Datathon 2021 - 3rd Place - Statistical Machine Learning for Counterfactual Lockdown Scenarios](https://github.com/leonjwu/erd21-team20)
-
-## Overview
-- Placed 3rd, competing against 1000s of students from top universities in Europe
-- Estimated counterfactual lockdown scenarios in Sweden using state-of-the-art Neural Controlled Differential Equations
-
- 
-Counterfactual Lockdown Scenarios
-:-----------------------------------:
-![](https://github.com/leonjwu/erd21-team20/blob/main/images/final.png)
-![](https://github.com/leonjwu/erd21-team20/blob/main/images/counterfactualcde.png)
----
-
-
-
-
-
-
----
 # [AI Hack 2019 - Overall Winners - Machine Learning for Train Route Planning](https://github.com/leonjwu/AIHack)
 
 ## Overview
